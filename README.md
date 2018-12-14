@@ -8,6 +8,10 @@ This is a joke module where T.Rex rampages.
 
 t-rex-web is no dependency. 🎉
 
+## Demo
+
+![t-rex-web-demo](https://user-images.githubusercontent.com/12035578/50009490-7be03c00-fffa-11e8-8e9f-8d7c2c87c7fd.gif)
+
 ## Installation
 
 with npm
