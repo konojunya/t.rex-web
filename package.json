@@ -1,0 +1,8 @@
+{
+  "name": "t.rex-web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/konojunya/t.rex-web.git",
+  "author": "konojunya <junya03dance@gmail.com>",
+  "license": "MIT"
+}
